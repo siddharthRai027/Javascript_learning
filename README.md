@@ -1,3 +1,3 @@
 # Javascript_learning
 
-Project 1 added
+Project 1(Magic Notes) added
